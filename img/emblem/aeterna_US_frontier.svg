@@ -1,0 +1,24 @@
+<svg width="240" viewBox="0 0 240 250" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>프론티어 길드 엠블럼</title><desc>나침반 장미 엠블럼, 헌터 에테르나 미국 프론티어 길드</desc>
+<g transform="translate(120,120)">
+<circle r="108" fill="#122a20"/>
+<circle r="108" fill="none" stroke="#b0824a" stroke-width="3"/>
+<circle r="99" fill="none" stroke="#d98a3a" stroke-width="0.8" opacity="0.8"/>
+<g fill="#b0824a"><circle cx="96" cy="0" r="1.8"/><circle cx="67.9" cy="67.9" r="1.4"/><circle cx="0" cy="96" r="1.8"/><circle cx="-67.9" cy="67.9" r="1.4"/><circle cx="-96" cy="0" r="1.8"/><circle cx="-67.9" cy="-67.9" r="1.4"/><circle cx="0" cy="-96" r="2.2" fill="#f0913a"/><circle cx="67.9" cy="-67.9" r="1.4"/></g>
+<g>
+<g transform="rotate(45)">
+<polygon points="0,-40 5,-5 -5,-5" fill="#8a6238"/><polygon points="0,40 5,5 -5,5" fill="#8a6238"/>
+<polygon points="-40,0 -5,5 -5,-5" fill="#8a6238"/><polygon points="40,0 5,5 5,-5" fill="#8a6238"/>
+</g>
+<polygon points="0,-58 8,-6 -8,-6" fill="#f0913a"/>
+<polygon points="0,-58 0,-6 -8,-6" fill="#f7b06a"/>
+<polygon points="0,58 8,6 -8,6" fill="#c98a48"/>
+<polygon points="0,58 0,6 8,6" fill="#e0a860"/>
+<polygon points="-58,0 -6,8 -6,-8" fill="#c98a48"/>
+<polygon points="58,0 6,8 6,-8" fill="#c98a48"/>
+<circle r="10" fill="#12281f" stroke="#d98a3a" stroke-width="2"/>
+<circle r="3" fill="#f0913a"/>
+</g>
+<text x="0" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="13" font-weight="700" letter-spacing="3" fill="#f0d0a8">FRONTIER</text>
+</g>
+</svg>

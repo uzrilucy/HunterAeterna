@@ -1,0 +1,32 @@
+<svg width="240" viewBox="0 0 240 250" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>판테온 길드 엠블럼</title><desc>월계관과 별 엠블럼, 헌터 에테르나 미국 판테온 길드</desc>
+<g transform="translate(120,120)">
+<circle r="108" fill="#2e1220"/>
+<circle r="108" fill="none" stroke="#d4af37" stroke-width="3"/>
+<circle r="99" fill="none" stroke="#e6a0b8" stroke-width="1"/>
+<g fill="#d4af37"><circle cx="96" cy="0" r="1.8"/><circle cx="67.9" cy="67.9" r="1.4"/><circle cx="0" cy="96" r="1.8"/><circle cx="-67.9" cy="67.9" r="1.4"/><circle cx="-96" cy="0" r="1.8"/><circle cx="-67.9" cy="-67.9" r="1.4"/><circle cx="0" cy="-96" r="2.2" fill="#fff4d0"/><circle cx="67.9" cy="-67.9" r="1.4"/></g>
+<circle r="40" fill="none" stroke="#b8923a" stroke-width="0.8" opacity="0.6"/>
+<g>
+<g transform="translate(30.6,-25.7) rotate(50)"><path d="M0,0 C5,-6 5,-16 0,-22 C-5,-16 -5,-6 0,0 Z" fill="#d4af37"/><path d="M0,-2 C3,-7 3,-14 0,-19 C-3,-14 -3,-7 0,-2 Z" fill="#eacb6f"/></g>
+<g transform="translate(38.6,-10.4) rotate(75)"><path d="M0,0 C5,-6 5,-16 0,-22 C-5,-16 -5,-6 0,0 Z" fill="#d4af37"/><path d="M0,-2 C3,-7 3,-14 0,-19 C-3,-14 -3,-7 0,-2 Z" fill="#eacb6f"/></g>
+<g transform="translate(39.4,6.9) rotate(100)"><path d="M0,0 C5,-6 5,-16 0,-22 C-5,-16 -5,-6 0,0 Z" fill="#d4af37"/><path d="M0,-2 C3,-7 3,-14 0,-19 C-3,-14 -3,-7 0,-2 Z" fill="#eacb6f"/></g>
+<g transform="translate(32.8,22.9) rotate(125)"><path d="M0,0 C5,-6 5,-16 0,-22 C-5,-16 -5,-6 0,0 Z" fill="#d4af37"/><path d="M0,-2 C3,-7 3,-14 0,-19 C-3,-14 -3,-7 0,-2 Z" fill="#eacb6f"/></g>
+<g transform="translate(20,34.6) rotate(150)"><path d="M0,0 C5,-6 5,-16 0,-22 C-5,-16 -5,-6 0,0 Z" fill="#d4af37"/><path d="M0,-2 C3,-7 3,-14 0,-19 C-3,-14 -3,-7 0,-2 Z" fill="#eacb6f"/></g>
+<g transform="translate(3.5,39.9) rotate(175)"><path d="M0,0 C5,-6 5,-16 0,-22 C-5,-16 -5,-6 0,0 Z" fill="#d4af37"/><path d="M0,-2 C3,-7 3,-14 0,-19 C-3,-14 -3,-7 0,-2 Z" fill="#eacb6f"/></g>
+<g transform="translate(-13.7,37.6) rotate(200)"><path d="M0,0 C5,-6 5,-16 0,-22 C-5,-16 -5,-6 0,0 Z" fill="#d4af37"/><path d="M0,-2 C3,-7 3,-14 0,-19 C-3,-14 -3,-7 0,-2 Z" fill="#eacb6f"/></g>
+<g transform="translate(-28.3,28.3) rotate(225)"><path d="M0,0 C5,-6 5,-16 0,-22 C-5,-16 -5,-6 0,0 Z" fill="#d4af37"/><path d="M0,-2 C3,-7 3,-14 0,-19 C-3,-14 -3,-7 0,-2 Z" fill="#eacb6f"/></g>
+<g transform="translate(-37.6,13.7) rotate(250)"><path d="M0,0 C5,-6 5,-16 0,-22 C-5,-16 -5,-6 0,0 Z" fill="#d4af37"/><path d="M0,-2 C3,-7 3,-14 0,-19 C-3,-14 -3,-7 0,-2 Z" fill="#eacb6f"/></g>
+<g transform="translate(-39.8,-3.5) rotate(275)"><path d="M0,0 C5,-6 5,-16 0,-22 C-5,-16 -5,-6 0,0 Z" fill="#d4af37"/><path d="M0,-2 C3,-7 3,-14 0,-19 C-3,-14 -3,-7 0,-2 Z" fill="#eacb6f"/></g>
+<g transform="translate(-34.6,-20) rotate(300)"><path d="M0,0 C5,-6 5,-16 0,-22 C-5,-16 -5,-6 0,0 Z" fill="#d4af37"/><path d="M0,-2 C3,-7 3,-14 0,-19 C-3,-14 -3,-7 0,-2 Z" fill="#eacb6f"/></g>
+</g>
+<g fill="#e6a0b8">
+<circle cx="36" cy="-18" r="2.2"/><circle cx="27" cy="30" r="2.2"/><circle cx="-33" cy="24" r="2.2"/><circle cx="-40" cy="-12" r="2.2"/>
+</g>
+<g transform="translate(0,-2)">
+<path d="M0,-30 L8.8,-9.3 L28.5,-9.3 L12.9,3.5 L18.6,24.3 L0,12 L-18.6,24.3 L-12.9,3.5 L-28.5,-9.3 L-8.8,-9.3 Z" fill="#e6a0b8" opacity="0.5"/>
+<path d="M0,-26 L7.6,-8.1 L24.7,-8.1 L11.2,3 L16.1,21 L0,10.4 L-16.1,21 L-11.2,3 L-24.7,-8.1 L-7.6,-8.1 Z" fill="#fff4d0"/>
+<path d="M0,-26 L7.6,-8.1 L0,-8.1 L0,10.4 L-16.1,21 L-11.2,3 L-24.7,-8.1 L-7.6,-8.1 Z" fill="#f3d6a8" opacity="0.7"/>
+</g>
+<text x="0" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="13" font-weight="700" letter-spacing="3" fill="#f5dfe6">PANTHEON</text>
+</g>
+</svg>

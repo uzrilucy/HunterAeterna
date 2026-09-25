@@ -1,0 +1,26 @@
+<svg width="240" viewBox="0 0 240 250" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>백귀 길드 엠블럼</title><desc>도깨비 가면과 귀화 엠블럼, 헌터 에테르나 일본 백귀 길드</desc>
+<g transform="translate(120,120)">
+<circle r="108" fill="#0e0a14"/>
+<circle r="108" fill="none" stroke="#6a4a9a" stroke-width="2.5"/>
+<circle r="99" fill="none" stroke="#2a8a7a" stroke-width="1"/>
+<g fill="#6a4a9a"><circle cx="96" cy="0" r="1.6"/><circle cx="67.9" cy="67.9" r="1.2"/><circle cx="0" cy="96" r="1.6"/><circle cx="-67.9" cy="67.9" r="1.2"/><circle cx="-96" cy="0" r="1.6"/><circle cx="-67.9" cy="-67.9" r="1.2"/><circle cx="0" cy="-96" r="2" fill="#3ad0b8"/><circle cx="67.9" cy="-67.9" r="1.2"/></g>
+<g transform="translate(-42,-30)"><path d="M0,4 C7,-4 5,-18 0,-26 C-5,-18 -7,-4 0,4 Z" fill="#2a8a7a" opacity="0.85"/><path d="M0,0 C3,-5 2,-14 0,-20 C-2,-14 -3,-5 0,0 Z" fill="#7ae0cc"/></g>
+<g transform="translate(44,-28)"><path d="M0,4 C7,-4 5,-18 0,-26 C-5,-18 -7,-4 0,4 Z" fill="#6a4a9a" opacity="0.85"/><path d="M0,0 C3,-5 2,-14 0,-20 C-2,-14 -3,-5 0,0 Z" fill="#b89ae0"/></g>
+<g transform="translate(0,4)">
+<path d="M-13,-32 C-22,-46 -30,-52 -25,-58 C-18,-50 -10,-42 -6,-36 Z" fill="#c9b088"/>
+<path d="M13,-32 C22,-46 30,-52 25,-58 C18,-50 10,-42 6,-36 Z" fill="#c9b088"/>
+<path d="M0,44 C-27,36 -33,6 -27,-16 C-23,-30 -11,-36 0,-36 C11,-36 23,-30 27,-16 C33,6 27,36 0,44 Z" fill="#221636" stroke="#6a4a9a" stroke-width="1.5"/>
+<path d="M-20,-14 L-4,-8" stroke="#6a4a9a" stroke-width="3" stroke-linecap="round"/>
+<path d="M20,-14 L4,-8" stroke="#6a4a9a" stroke-width="3" stroke-linecap="round"/>
+<path d="M-20,-6 Q-11,-13 -3,-6 Q-11,-1 -20,-6 Z" fill="#3ad0b8"/>
+<path d="M20,-6 Q11,-13 3,-6 Q11,-1 20,-6 Z" fill="#3ad0b8"/>
+<circle cx="-11" cy="-6" r="2" fill="#0e0a14"/><circle cx="11" cy="-6" r="2" fill="#0e0a14"/>
+<path d="M-16,16 Q0,30 16,16 Q8,22 0,20 Q-8,22 -16,16 Z" fill="#160c22"/>
+<polygon points="-10,17 -7,25 -4,17" fill="#f0ece0"/>
+<polygon points="10,17 7,25 4,17" fill="#f0ece0"/>
+<polygon points="0,18 -2,23 2,23" fill="#f0ece0"/>
+</g>
+<text x="0" y="88" text-anchor="middle" font-family="'Nanum Myeongjo',serif" font-size="15" font-weight="700" letter-spacing="5" fill="#b89ae0">百鬼</text>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="240" viewBox="0 0 240 250" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>무영 길드 엠블럼</title><desc>일식(가려진 별) 엠블럼, 헌터 에테르나 한국 무영 길드</desc>
+<g transform="translate(120,120)">
+<circle cx="0" cy="0" r="108" fill="#0d0a14"/>
+<circle cx="0" cy="0" r="108" fill="none" stroke="#8f86a8" stroke-width="2"/>
+<circle cx="0" cy="0" r="99" fill="none" stroke="#5a4d7a" stroke-width="0.8" stroke-dasharray="4 5"/>
+<g fill="#8f86a8">
+<circle cx="96" cy="0" r="1.6"/><circle cx="67.9" cy="67.9" r="1.2"/><circle cx="0" cy="96" r="1.6"/>
+<circle cx="-67.9" cy="67.9" r="1.2"/><circle cx="-96" cy="0" r="1.6"/><circle cx="-67.9" cy="-67.9" r="1.2"/>
+<circle cx="0" cy="-96" r="1.6"/><circle cx="67.9" cy="-67.9" r="1.2"/></g>
+<g transform="translate(0,-4)">
+<circle cx="0" cy="0" r="46" fill="none" stroke="#c9b3ff" stroke-width="1.5" opacity="0.55"/>
+<circle cx="0" cy="0" r="46" fill="#0d0a14"/>
+<path d="M0,-46 A46,46 0 0,1 0,46 A40,40 0 0,0 0,-46 Z" fill="#b8a4e8" opacity="0.9"/>
+<circle cx="-8" cy="-6" r="42" fill="#0d0a14"/>
+<g transform="translate(20,-20)"><path d="M0,-9 L2.2,-2.2 L9,0 L2.2,2.2 L0,9 L-2.2,2.2 L-9,0 L-2.2,-2.2 Z" fill="#e8def5"/></g>
+<g transform="translate(-24,26)"><path d="M0,-4 L1,-1 L4,0 L1,1 L0,4 L-1,1 L-4,0 L-1,-1 Z" fill="#c9b3ff"/></g>
+</g>
+<text x="0" y="86" text-anchor="middle" font-family="'Nanum Myeongjo',serif" font-size="16" font-weight="700" letter-spacing="5" fill="#b9a6e0">무영</text>
+</g>
+</svg>

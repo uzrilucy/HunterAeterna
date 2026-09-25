@@ -1,0 +1,22 @@
+<svg width="240" viewBox="0 0 240 250" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>야마타 길드 엠블럼</title><desc>여덟 갈래 뱀 엠블럼, 헌터 에테르나 일본 야마타 길드</desc>
+<g transform="translate(120,120)">
+<circle r="108" fill="#14100c"/>
+<circle r="108" fill="none" stroke="#d4af37" stroke-width="3"/>
+<circle r="99" fill="none" stroke="#a83028" stroke-width="1"/>
+<g fill="#d4af37"><circle cx="96" cy="0" r="1.8"/><circle cx="67.9" cy="67.9" r="1.4"/><circle cx="0" cy="96" r="1.8"/><circle cx="-67.9" cy="67.9" r="1.4"/><circle cx="-96" cy="0" r="1.8"/><circle cx="-67.9" cy="-67.9" r="1.4"/><circle cx="0" cy="-96" r="2.2" fill="#e0563a"/><circle cx="67.9" cy="-67.9" r="1.4"/></g>
+<g>
+<g><path d="M0,-11 C10,-18 11,-33 2,-44" fill="none" stroke="#d4af37" stroke-width="3" stroke-linecap="round"/><circle cx="2" cy="-44" r="3" fill="#e8c860"/><circle cx="2" cy="-45" r="1" fill="#a83028"/></g>
+<g transform="rotate(45)"><path d="M0,-11 C10,-18 11,-33 2,-44" fill="none" stroke="#d4af37" stroke-width="3" stroke-linecap="round"/><circle cx="2" cy="-44" r="3" fill="#e8c860"/><circle cx="2" cy="-45" r="1" fill="#a83028"/></g>
+<g transform="rotate(90)"><path d="M0,-11 C10,-18 11,-33 2,-44" fill="none" stroke="#d4af37" stroke-width="3" stroke-linecap="round"/><circle cx="2" cy="-44" r="3" fill="#e8c860"/><circle cx="2" cy="-45" r="1" fill="#a83028"/></g>
+<g transform="rotate(135)"><path d="M0,-11 C10,-18 11,-33 2,-44" fill="none" stroke="#d4af37" stroke-width="3" stroke-linecap="round"/><circle cx="2" cy="-44" r="3" fill="#e8c860"/><circle cx="2" cy="-45" r="1" fill="#a83028"/></g>
+<g transform="rotate(180)"><path d="M0,-11 C10,-18 11,-33 2,-44" fill="none" stroke="#d4af37" stroke-width="3" stroke-linecap="round"/><circle cx="2" cy="-44" r="3" fill="#e8c860"/><circle cx="2" cy="-45" r="1" fill="#a83028"/></g>
+<g transform="rotate(225)"><path d="M0,-11 C10,-18 11,-33 2,-44" fill="none" stroke="#d4af37" stroke-width="3" stroke-linecap="round"/><circle cx="2" cy="-44" r="3" fill="#e8c860"/><circle cx="2" cy="-45" r="1" fill="#a83028"/></g>
+<g transform="rotate(270)"><path d="M0,-11 C10,-18 11,-33 2,-44" fill="none" stroke="#d4af37" stroke-width="3" stroke-linecap="round"/><circle cx="2" cy="-44" r="3" fill="#e8c860"/><circle cx="2" cy="-45" r="1" fill="#a83028"/></g>
+<g transform="rotate(315)"><path d="M0,-11 C10,-18 11,-33 2,-44" fill="none" stroke="#d4af37" stroke-width="3" stroke-linecap="round"/><circle cx="2" cy="-44" r="3" fill="#e8c860"/><circle cx="2" cy="-45" r="1" fill="#a83028"/></g>
+</g>
+<circle r="11" fill="#14100c" stroke="#d4af37" stroke-width="2.5"/>
+<circle r="4" fill="#a83028"/><circle r="1.4" fill="#e8c860"/>
+<text x="0" y="88" text-anchor="middle" font-family="'Nanum Myeongjo',serif" font-size="15" font-weight="700" letter-spacing="5" fill="#e8c860">八岐</text>
+</g>
+</svg>

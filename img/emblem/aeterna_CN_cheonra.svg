@@ -1,0 +1,18 @@
+<svg width="240" viewBox="0 0 240 250" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>천라 길드 엠블럼</title><desc>그물과 눈 엠블럼, 헌터 에테르나 중국 천라 길드</desc>
+<g transform="translate(120,120)">
+<circle r="108" fill="#0c0c10"/>
+<circle r="108" fill="none" stroke="#9aa4b0" stroke-width="2.5"/>
+<circle r="99" fill="none" stroke="#8a1020" stroke-width="1"/>
+<g fill="#9aa4b0"><circle cx="96" cy="0" r="1.6"/><circle cx="67.9" cy="67.9" r="1.2"/><circle cx="0" cy="96" r="1.6"/><circle cx="-67.9" cy="67.9" r="1.2"/><circle cx="-96" cy="0" r="1.6"/><circle cx="-67.9" cy="-67.9" r="1.2"/><circle cx="0" cy="-96" r="1.8" fill="#c8384a"/><circle cx="67.9" cy="-67.9" r="1.2"/></g>
+<clipPath id="tlnet_cheonra"><circle r="60"/></clipPath>
+<g clip-path="url(#tlnet_cheonra)" stroke="#6a7480" stroke-width="0.6" opacity="0.85">
+<line x1="-70" y1="-42" x2="70" y2="-42"/><line x1="-70" y1="-14" x2="70" y2="-14"/><line x1="-70" y1="14" x2="70" y2="14"/><line x1="-70" y1="42" x2="70" y2="42"/>
+<line x1="-42" y1="-70" x2="-42" y2="70"/><line x1="-14" y1="-70" x2="-14" y2="70"/><line x1="14" y1="-70" x2="14" y2="70"/><line x1="42" y1="-70" x2="42" y2="70"/>
+</g>
+<path d="M-32,0 Q0,-19 32,0 Q0,19 -32,0 Z" fill="#0c0c10" stroke="#9aa4b0" stroke-width="1.5"/>
+<circle r="11" fill="#8a1020"/><circle r="10" fill="none" stroke="#c8384a" stroke-width="1"/>
+<circle r="4.5" fill="#0c0c10"/><circle cx="3" cy="-3" r="1.6" fill="#e8b0b8"/>
+<text x="0" y="88" text-anchor="middle" font-family="'Nanum Myeongjo',serif" font-size="15" font-weight="700" letter-spacing="5" fill="#c0c8d2">天羅</text>
+</g>
+</svg>

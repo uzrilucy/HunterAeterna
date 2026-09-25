@@ -1,0 +1,29 @@
+<svg width="240" viewBox="0 0 240 250" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>천명 길드 엠블럼</title><desc>북극성 엠블럼, 헌터 에테르나 한국 천명 길드</desc>
+<g transform="translate(120,120)">
+<circle cx="0" cy="0" r="108" fill="#141d3a"/>
+<circle cx="0" cy="0" r="108" fill="none" stroke="#c9a449" stroke-width="3"/>
+<circle cx="0" cy="0" r="99" fill="none" stroke="#c9a449" stroke-width="0.8" opacity="0.7"/>
+<g fill="#aee3f0">
+<circle cx="96" cy="0" r="1.8"/><circle cx="67.9" cy="67.9" r="1.4"/><circle cx="0" cy="96" r="1.8"/>
+<circle cx="-67.9" cy="67.9" r="1.4"/><circle cx="-96" cy="0" r="1.8"/><circle cx="-67.9" cy="-67.9" r="1.4"/>
+<circle cx="0" cy="-96" r="2.4" fill="#f5d576"/><circle cx="67.9" cy="-67.9" r="1.4"/>
+</g>
+<g stroke="#5a7bc0" stroke-width="0.5" opacity="0.5">
+<line x1="96" y1="0" x2="67.9" y2="67.9"/><line x1="67.9" y1="67.9" x2="0" y2="96"/>
+<line x1="0" y1="96" x2="-67.9" y2="67.9"/><line x1="-67.9" y1="67.9" x2="-96" y2="0"/>
+<line x1="-96" y1="0" x2="-67.9" y2="-67.9"/><line x1="-67.9" y1="-67.9" x2="0" y2="-96"/>
+<line x1="0" y1="-96" x2="67.9" y2="-67.9"/><line x1="67.9" y1="-67.9" x2="96" y2="0"/>
+</g>
+<g transform="translate(0,-8)">
+<g opacity="0.9" stroke="#f5d576" stroke-width="0.6">
+<line x1="0" y1="-70" x2="0" y2="70"/><line x1="-70" y1="0" x2="70" y2="0"/>
+</g>
+<path d="M0,-52 L11,-11 L52,0 L11,11 L0,52 L-11,11 L-52,0 L-11,-11 Z" fill="#f5d576"/>
+<g transform="rotate(45)"><path d="M0,-34 L6,-6 L34,0 L6,6 L0,34 L-6,6 L-34,0 L-6,-6 Z" fill="#e0c56a"/></g>
+<path d="M0,-22 L5,-5 L22,0 L5,5 L0,22 L-5,5 L-22,0 L-5,-5 Z" fill="#fff4d0"/>
+<circle cx="0" cy="0" r="5" fill="#ffffff"/>
+</g>
+<text x="0" y="86" text-anchor="middle" font-family="'Nanum Myeongjo',serif" font-size="16" font-weight="700" letter-spacing="5" fill="#e8d8a0">천명</text>
+</g>
+</svg>

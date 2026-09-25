@@ -1,0 +1,30 @@
+<svg width="240" viewBox="0 0 240 250" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>한국 헌터 협회 엠블럼</title><desc>저울 위의 별 엠블럼, 헌터 에테르나 한국 헌터 협회</desc>
+<g transform="translate(120,120)">
+<circle cx="0" cy="0" r="108" fill="#23252c"/>
+<circle cx="0" cy="0" r="108" fill="none" stroke="#c9a449" stroke-width="3"/>
+<circle cx="0" cy="0" r="99" fill="none" stroke="#e9e1cc" stroke-width="0.8" opacity="0.55"/>
+<g stroke="#e9e1cc" stroke-width="0.6" opacity="0.35">
+<line x1="0" y1="-99" x2="0" y2="-92"/><line x1="0" y1="99" x2="0" y2="92"/>
+<line x1="-99" y1="0" x2="-92" y2="0"/><line x1="99" y1="0" x2="92" y2="0"/>
+<line x1="70" y1="-70" x2="65" y2="-65"/><line x1="-70" y1="-70" x2="-65" y2="-65"/>
+<line x1="70" y1="70" x2="65" y2="65"/><line x1="-70" y1="70" x2="-65" y2="65"/>
+</g>
+<g fill="#aee3f0"><circle cx="0" cy="-96" r="2.2" fill="#f5d576"/><circle cx="-96" cy="0" r="1.4"/><circle cx="96" cy="0" r="1.4"/></g>
+<g transform="translate(0,-6)">
+<path d="M0,-58 L4,-46 L16,-46 L6,-38 L10,-26 L0,-34 L-10,-26 L-6,-38 L-16,-46 L-4,-46 Z" fill="#f5d576"/>
+<path d="M0,-50 L2,-44 L8,-44 L3,-40 L5,-34 L0,-38 L-5,-34 L-3,-40 L-8,-44 L-2,-44 Z" fill="#fff4d0"/>
+<line x1="0" y1="-24" x2="0" y2="40" stroke="#c9a449" stroke-width="3"/>
+<line x1="-52" y1="-14" x2="52" y2="-14" stroke="#c9a449" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="0" cy="-14" r="4" fill="#23252c" stroke="#f5d576" stroke-width="1.6"/>
+<g stroke="#e9e1cc" stroke-width="0.8" opacity="0.9">
+<line x1="-50" y1="-14" x2="-64" y2="18"/><line x1="-50" y1="-14" x2="-36" y2="18"/>
+<line x1="50" y1="-14" x2="36" y2="18"/><line x1="50" y1="-14" x2="64" y2="18"/>
+</g>
+<path d="M-68,18 Q-50,34 -32,18 Z" fill="#c9a449"/>
+<path d="M32,18 Q50,34 68,18 Z" fill="#c9a449"/>
+<path d="M-22,44 L22,44 L16,38 L-16,38 Z" fill="#c9a449"/>
+</g>
+<text x="0" y="86" text-anchor="middle" font-family="'Nanum Myeongjo',serif" font-size="15" font-weight="700" letter-spacing="5" fill="#e8d8a0">협회</text>
+</g>
+</svg>

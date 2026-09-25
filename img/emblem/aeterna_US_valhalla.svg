@@ -1,0 +1,22 @@
+<svg width="240" viewBox="0 0 240 250" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>발할라 길드 엠블럼</title><desc>날개 돋친 검 엠블럼, 헌터 에테르나 미국 발할라 길드</desc>
+<g transform="translate(120,120)">
+<circle r="108" fill="#16203a"/>
+<circle r="108" fill="none" stroke="#b8c2d0" stroke-width="3"/>
+<circle r="99" fill="none" stroke="#c9a449" stroke-width="0.8" opacity="0.7"/>
+<g fill="#b8c2d0"><circle cx="96" cy="0" r="1.8"/><circle cx="67.9" cy="67.9" r="1.4"/><circle cx="0" cy="96" r="1.8"/><circle cx="-67.9" cy="67.9" r="1.4"/><circle cx="-96" cy="0" r="1.8"/><circle cx="-67.9" cy="-67.9" r="1.4"/><circle cx="0" cy="-96" r="2.2" fill="#f5d576"/><circle cx="67.9" cy="-67.9" r="1.4"/></g>
+<g transform="translate(0,-2)">
+<path d="M-14,-4 C-36,-22 -56,-18 -62,0 C-49,-5 -41,-1 -35,6 C-47,3 -52,10 -54,18 C-41,11 -33,14 -27,18 C-31,11 -25,5 -16,7 Z" fill="#d4af37"/>
+<path d="M14,-4 C36,-22 56,-18 62,0 C49,-5 41,-1 35,6 C47,3 52,10 54,18 C41,11 33,14 27,18 C31,11 25,5 16,7 Z" fill="#d4af37"/>
+<path d="M-14,-4 C-36,-22 -56,-18 -62,0 C-49,-5 -41,-1 -35,6" fill="none" stroke="#b8923a" stroke-width="0.6"/>
+<path d="M14,-4 C36,-22 56,-18 62,0 C49,-5 41,-1 35,6" fill="none" stroke="#b8923a" stroke-width="0.6"/>
+<polygon points="0,-64 6,-42 -6,-42" fill="#e8eef5"/>
+<rect x="-5" y="-42" width="10" height="70" fill="#cdd6e0"/>
+<rect x="-5" y="-42" width="4" height="70" fill="#e8eef5"/>
+<rect x="-26" y="24" width="52" height="7" rx="2" fill="#d4af37"/>
+<rect x="-6" y="31" width="12" height="16" fill="#8a6f2a"/>
+<circle cx="0" cy="50" r="6" fill="#d4af37"/>
+</g>
+<text x="0" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="13" font-weight="700" letter-spacing="3" fill="#dfe6f0">VALHALLA</text>
+</g>
+</svg>
