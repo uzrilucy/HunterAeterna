@@ -457,6 +457,30 @@ table.t tr.danger td:first-child{color:var(--seal-hi)}
 .arc li::before{content:"→";color:var(--gold)}
 @media (max-width:960px){.trilogy{grid-template-columns:1fr}.uni .pics{max-width:420px;justify-self:center;width:100%}}
 
+.exo{margin-top:16px;display:grid;gap:16px}
+.exo .pics{display:grid;grid-template-columns:1fr 1fr;align-items:end;background:radial-gradient(ellipse at 50% 85%,var(--vault-2),var(--bg-2));min-height:200px}
+.exo .pics img{width:100%;aspect-ratio:560/818;object-fit:contain;object-position:bottom}
+.exo .bd{padding:18px 20px 20px;display:grid;gap:10px;align-content:start}
+.exo .span{font-size:11.5px;color:var(--star)}
+.exo h4{font-size:18px;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.exo h4 .lat{font-size:10.5px;color:var(--star);font-family:var(--f-lat);font-weight:400}
+.exo p{font-size:13.5px;color:var(--ink-2)}
+.exo-lead{display:grid;grid-template-columns:minmax(0,380px) minmax(0,1fr);border:1px solid var(--line);background:var(--panel)}
+.exo-lead .pics{border-right:1px solid var(--line)}
+.exo-lead .bd{padding:26px 28px;align-content:center}
+.exo-lead h4{font-size:22px}
+.glow{list-style:none;margin:4px 0 0;padding:0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+.glow li{display:grid;gap:2px;padding:10px 12px;border:1px solid var(--line);background:#070a1c}
+.glow i{height:3px;border-radius:2px;background:var(--c);box-shadow:0 0 8px var(--c),0 0 2px var(--c);margin-bottom:6px}
+.glow b{font-family:var(--f-disp);font-size:15px;color:#ece3c7}
+.glow span{font-size:11px;color:#8a8573}
+.exo-majors{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.exo-card{border:1px solid var(--line);background:var(--panel);display:grid;grid-template-rows:auto 1fr}
+.exo-card .pics{border-bottom:1px solid var(--line)}
+@media (max-width:1040px){.exo-majors{grid-template-columns:1fr 1fr}}
+@media (max-width:820px){.exo-lead{grid-template-columns:1fr}.exo-lead .pics{border-right:0;border-bottom:1px solid var(--line);max-width:420px;width:100%;justify-self:center}.glow{grid-template-columns:1fr 1fr}}
+@media (max-width:520px){.exo-majors{grid-template-columns:1fr}.exo-card .pics{max-width:420px;width:100%;justify-self:center}}
+
 .cal{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
 .cal .plate{padding:20px}
 .months{list-style:none;margin:12px 0 0;padding:0;display:grid;gap:0}
@@ -1136,9 +1160,28 @@ footer p{font-size:12.5px;color:var(--ink-3)}
           <ul class="arc"><li>스카프 타이 → 넥타이 · 애귀렛 · 견장</li><li>걷어 올린 소매 → 커프스(안 걷음 = 어른)</li><li>별자리 라인 → 헴라인의 완성된 성좌 금자수</li><li>금(로열 골드) · 은(플래티넘) · 청(사파이어) · 갈(다크 브론즈, 견장 미지급)</li></ul></div>
       </div>
     </div>
-    <div class="plate" style="margin-top:16px">
-      <h4>실전 훈련복<span class="lat">Exosuit</span></h4>
-      <p>올블랙 타이트 전술 엑소슈트. 방탄과 마력 왜곡 직조. 좌측 어깨와 등의 형광 마력선이 등급색으로 빛나 칠흑 같은 게이트 안에서 피아를 식별한다. 타격은 경량 매트블랙 카본 관절 보호구와 퀵드로 하네스, 수호는 흉부·어깨 고충격 흡수 중장갑, 지원·치유는 미세 마력 배리어를 넣은 테크웨어 트렌치나 케이프를 걸친다.</p>
+    <div class="exo">
+      <div class="exo-lead">
+        <div class="pics"><img src="img/uniform/exo-base-f.webp" alt="기본 실전 훈련복 여학생" loading="lazy"><img src="img/uniform/exo-base-m.webp" alt="기본 실전 훈련복 남학생" loading="lazy"></div>
+        <div class="bd">
+          <span class="span mono">고등부 · 실전</span>
+          <h4>실전 훈련복<span class="lat">Exosuit</span></h4>
+          <p>수습면허를 받은 고등부가 게이트와 실기에서 입는 옷. 올블랙 전술 엑소슈트로, 방탄 섬유에 마력 왜곡 직조를 섞었다. 가슴의 별 엠블럼과 은색 윙핀, 손목의 생체 단자는 교복과 같다.</p>
+          <p>좌측 어깨와 등을 타고 흐르는 마력선이 등급색으로 빛난다. 칠흑 같은 게이트 안에서 피아를 가르고, 지휘관은 불빛의 색만 보고 누가 어디 있는지 안다. 교복 3부작에서 점이 선이 되고 선이 성좌가 되었다면, 전장에서는 그 성좌에 불이 켜진다.</p>
+          <ul class="glow">
+            <li style="--c:#f5d576"><i></i><b>금</b><span>S클래스</span></li>
+            <li style="--c:#e6ebf3"><i></i><b>은</b><span>A~B</span></li>
+            <li style="--c:#4f7fd8"><i></i><b>청</b><span>C~D</span></li>
+            <li style="--c:#8a6040"><i></i><b>갈</b><span>E~F · 흐린 빛</span></li>
+          </ul>
+        </div>
+      </div>
+      <div class="exo-majors">
+        <div class="exo-card"><div class="pics"><img src="img/uniform/exo-strike-f.webp" alt="타격 실전 훈련복 여학생" loading="lazy"><img src="img/uniform/exo-strike-m.webp" alt="타격 실전 훈련복 남학생" loading="lazy"></div><div class="bd"><span class="span mono">타격 · Strike</span><h4>경량 카본</h4><p>매트블랙 카본 관절 보호구와 퀵드로 모듈 하네스. 무게를 덜고 빨리 뽑는다.</p></div></div>
+        <div class="exo-card"><div class="pics"><img src="img/uniform/exo-guard-f.webp" alt="수호 실전 훈련복 여학생" loading="lazy"><img src="img/uniform/exo-guard-m.webp" alt="수호 실전 훈련복 남학생" loading="lazy"></div><div class="bd"><span class="span mono">수호 · Guard</span><h4>중장갑</h4><p>흉부와 어깨에 고충격 흡수 합금 플레이트를 덧댄다. 파티의 앞에 서는 몸.</p></div></div>
+        <div class="exo-card"><div class="pics"><img src="img/uniform/exo-support-f.webp" alt="지원 실전 훈련복 여학생" loading="lazy"><img src="img/uniform/exo-support-m.webp" alt="지원 실전 훈련복 남학생" loading="lazy"></div><div class="bd"><span class="span mono">지원 · Support</span><h4>테크웨어 트렌치</h4><p>미세 마력 배리어를 짜 넣은 트렌치코트. 육각 배리어 문양과 유틸리티 파우치.</p></div></div>
+        <div class="exo-card"><div class="pics"><img src="img/uniform/exo-heal-f.webp" alt="치유 실전 훈련복 여학생" loading="lazy"><img src="img/uniform/exo-heal-m.webp" alt="치유 실전 훈련복 남학생" loading="lazy"></div><div class="bd"><span class="span mono">치유 · Heal</span><h4>배리어 케이프</h4><p>같은 배리어를 넣은 케이프. 아이보리 안감 덕에 전장 어디서든 힐러를 알아본다. 교내 절대 성역이 입는 옷.</p></div></div>
+      </div>
     </div>
   </div>
 
