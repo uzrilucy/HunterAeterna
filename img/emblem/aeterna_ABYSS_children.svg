@@ -1,0 +1,40 @@
+<svg width="240" viewBox="0 0 240 250" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>심연의 아이들 문양</title><desc>심연의 품에 안긴 진주와 여섯 개의 빛, 그중 하나는 아직 켜지지 않았다. 헌터 에테르나 인간형 개체</desc>
+<defs>
+<radialGradient id="abyss-deep" cx="0" cy="18" r="108" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#16324a"/><stop offset="0.6" stop-color="#0c1726"/><stop offset="1" stop-color="#070b14"/></radialGradient>
+<radialGradient id="abyss-pearl" cx="-3" cy="-4" r="16" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffffff"/><stop offset="0.55" stop-color="#e3ecf2"/><stop offset="1" stop-color="#9fb8c8"/></radialGradient>
+<radialGradient id="abyss-glow" cx="0" cy="0" r="40" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#7fe3e0" stop-opacity="0.35"/><stop offset="1" stop-color="#7fe3e0" stop-opacity="0"/></radialGradient>
+</defs>
+<g transform="translate(120,120)">
+<circle cx="0" cy="0" r="108" fill="url(#abyss-deep)"/>
+<circle cx="0" cy="0" r="108" fill="none" stroke="#c9a449" stroke-width="3"/>
+<circle cx="0" cy="0" r="99" fill="none" stroke="#7fe3e0" stroke-width="0.6" opacity="0.35"/>
+<g fill="none" stroke="#7fe3e0" stroke-linecap="round">
+<ellipse cx="0" cy="30" rx="78" ry="15" stroke-width="0.6" opacity="0.18"/>
+<ellipse cx="0" cy="36" rx="60" ry="11" stroke-width="0.6" opacity="0.26"/>
+<ellipse cx="0" cy="41" rx="42" ry="7.5" stroke-width="0.7" opacity="0.34"/>
+</g>
+<g transform="translate(0,-6)">
+<circle cx="0" cy="0" r="40" fill="url(#abyss-glow)"/>
+<path d="M-40,-6 C-40,26 -20,40 0,40 C20,40 40,26 40,-6 C32,14 18,24 0,24 C-18,24 -32,14 -40,-6 Z" fill="#1d4a63" stroke="#c9a449" stroke-width="1.2"/>
+<path d="M-40,-6 C-44,-10 -48,-8 -50,-4 M40,-6 C44,-10 48,-8 50,-4" fill="none" stroke="#c9a449" stroke-width="1" stroke-linecap="round"/>
+<g fill="none" stroke="#7fe3e0" stroke-width="0.8" opacity="0.7" stroke-linecap="round">
+<path d="M-30,20 C-34,30 -30,40 -24,46"/><path d="M-14,28 C-16,38 -12,48 -8,54"/><path d="M14,28 C16,38 12,48 8,54"/><path d="M30,20 C34,30 30,40 24,46"/>
+</g>
+<circle cx="0" cy="6" r="14" fill="url(#abyss-pearl)"/>
+<circle cx="-4" cy="2" r="3" fill="#ffffff" opacity="0.9"/>
+</g>
+<g transform="translate(0,-6)">
+<g fill="#7fe3e0">
+<circle cx="-54" cy="-40" r="2.6"/><circle cx="-30" cy="-62" r="2.6"/><circle cx="30" cy="-62" r="2.6"/><circle cx="54" cy="-40" r="2.6"/><circle cx="-62" cy="-12" r="2.6"/>
+</g>
+<circle cx="62" cy="-12" r="2.8" fill="none" stroke="#f0d98a" stroke-width="1"/>
+<g fill="none" stroke="#7fe3e0" stroke-width="0.5" opacity="0.4" stroke-dasharray="1 3">
+<path d="M-62,-12 L-54,-40 L-30,-62 L30,-62 L54,-40 L62,-12"/>
+</g>
+</g>
+<path d="M-34,58 L34,58" stroke="#c9a449" stroke-width="0.6" opacity="0.8"/>
+<text x="0" y="78" text-anchor="middle" font-family="'Nanum Myeongjo',serif" font-size="14" font-weight="700" letter-spacing="4" fill="#e8d8a0">심연의 아이들</text>
+<text x="0" y="93" text-anchor="middle" font-family="Georgia,serif" font-size="6.5" letter-spacing="1.6" fill="#7fe3e0">HUMANOID ENTITIES · HX</text>
+</g>
+</svg>
