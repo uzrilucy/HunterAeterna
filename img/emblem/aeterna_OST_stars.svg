@@ -1,0 +1,21 @@
+<svg width="240" viewBox="0 0 240 250" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>성좌 테마</title><desc>원초의 궤도와 일곱 별, 그 바깥의 별 하나</desc>
+<g transform="translate(120,120)">
+<circle r="108" fill="#15122e"/>
+<circle r="108" fill="none" stroke="#b9a6e0" stroke-width="3"/>
+<circle r="99" fill="none" stroke="#b9a6e0" stroke-width="0.8" opacity="0.6"/>
+<g fill="none" stroke="#b9a6e0" stroke-width="0.9" opacity="0.75">
+<ellipse rx="82" ry="30" transform="rotate(-24)"/>
+<ellipse rx="82" ry="30" transform="rotate(36)" stroke-dasharray="2 4" opacity="0.7"/>
+</g>
+<g fill="#e7defa">
+<circle cx="62" cy="-56" r="2.2"/><circle cx="84" cy="-12" r="1.6"/><circle cx="70" cy="46" r="1.8"/>
+<circle cx="18" cy="80" r="1.6"/><circle cx="-44" cy="70" r="1.8"/><circle cx="-82" cy="18" r="1.6"/><circle cx="-66" cy="-50" r="2"/>
+</g>
+<g stroke="#b9a6e0" stroke-width="0.5" opacity="0.45" fill="none"><path d="M62,-56 L84,-12 L70,46 L18,80 L-44,70 L-82,18 L-66,-50"/></g>
+<circle cx="0" cy="-99" r="3.2" fill="#f5d576"/>
+<path d="M0,-44 L9,-9 L44,0 L9,9 L0,44 L-9,9 L-44,0 L-9,-9 Z" fill="#f5d576"/>
+<g transform="rotate(45)"><path d="M0,-26 L5,-5 L26,0 L5,5 L0,26 L-5,5 L-26,0 L-5,-5 Z" fill="#b9a6e0"/></g>
+<path d="M0,-16 L3.4,-3.4 L16,0 L3.4,3.4 L0,16 L-3.4,3.4 L-16,0 L-3.4,-3.4 Z" fill="#fff4d0"/>
+</g>
+</svg>
